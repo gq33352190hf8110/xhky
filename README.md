@@ -1,6 +1,7 @@
 # LeonHazard.github.io
 Crash Website
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://PayPal.me/HyGlobalHD)[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://PayPal.me/HyGlobalHD)[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://PayPal.me/HyGlobalHD)[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://PayPal.me/HyGlobalHD)[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://PayPal.me/HyGlobalHD)
 
 when i bored. :) [Click To Start Up :)](https://HyGlobalHD.github.io/xhky/)
 
