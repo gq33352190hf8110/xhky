@@ -16,6 +16,11 @@ This Is The Target Rpo See : [![Hits](http://hits.dwyl.io/BackToAction/BTACore.s
 ## Donate Now
 Love It? Now [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://PayPal.me/HyGlobalHD)
 
+# Example What Will The Terminal Look :
+[See The Terminal](http://hits.dwyl.io/)
+
+![](https://github.com/HyGlobalHD/xhky/blob/gh-pages/example.PNG)
+
 # DISCLAIMER
 ```
 THIS REPOSITORY ONLY FOR EDUCATIONAL PURPOSE.
