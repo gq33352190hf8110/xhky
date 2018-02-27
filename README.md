@@ -21,6 +21,11 @@ Love It? Now [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](h
 
 ![](https://github.com/HyGlobalHD/xhky/blob/gh-pages/example.PNG)
 
+# Link 
+- [The Normal Farmer](https://hyglobalhd.github.io/xhky/)
+- [Fast Farmer](https://hyglobalhd.github.io/xhky/crash.html)
+- [Test With -1](https://hyglobalhd.github.io/xhky/crash1.html)
+
 # DISCLAIMER
 ```
 THIS REPOSITORY ONLY FOR EDUCATIONAL PURPOSE.
