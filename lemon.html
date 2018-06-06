@@ -5,8 +5,8 @@
       window.onload = setupRefresh;
 	   
       function setupRefresh() {
-          setInterval("refreshFrame();", 3000);
-          setInterval("refreshFrame2();", 5000);
+          setInterval("refreshFrame();", 1000);
+          setInterval("refreshFrame2();", 10000);
       }
       function refreshFrame() {
          parent.right_frame.location.reload();
