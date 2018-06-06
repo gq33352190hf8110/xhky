@@ -3,16 +3,13 @@
   <head>
    <script type="text/javascript">
       window.onload = setupRefresh;
-      window.onload = setupRefresh2;
 	   
       function setupRefresh() {
           setInterval("refreshFrame();", 1000);
+          setInterval("refreshFrame2();", 5000);
       }
       function refreshFrame() {
          parent.right_frame.location.reload();
-      }
-      function setupRefresh2() {
-          setInterval("refreshFrame2();", 5000);
       }
       function refreshFrame2() {
          parent.left_frame.location.reload();
