@@ -2,22 +2,10 @@
 <html>
   <head>
    <title></title>
-  <script type="text/javascript">
-    window.onload = startInterval;
-    function startInterval()
-    {
-        setInterval("startTime();",1000);
-    }
-    
-    function startTime()
-    {
-        document.getElementById('time').innerHTML = Date();  
-    }
-  </script>
   </head>
-  <body>  
-            <div id="time">
-        <script src="https://gist.github.com/HyGlobalHD/5909ec0fff92e2a6b94a1d38ef722c56.js"></script>
-    </div>
-  </body>
+  <frameset id="cntfrm" cols="250,*">
+      <frame src="index.html" scrolling="auto" frameborder="1" />
+      <frame src="https://gist.github.com/HyGlobalHD/5909ec0fff92e2a6b94a1d38ef722c56.js" scrolling="auto"  />
+  </frameset>
 </html>
+ 
